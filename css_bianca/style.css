@@ -8,22 +8,7 @@ header{
     background-color: var(--primary-color);
     height: 14%;
     flex-direction: column;
-    border-bottom: 2px solid var(--primary-color);
-}
-
-.header_links{
-    justify-content: flex-end;
-    padding-right: 3%;
-    color: #ffff;
-}
-.header_content{
-    background-color: #ffff;
-    height: 90%;
-    justify-content: space-between;
-}
-
-.header_content_logo_presentation{
-    flex-direction: column;
+    border-bottom: 3px solid var(--primary-color);
 }
 
 main{
