@@ -12,6 +12,7 @@
     background-color: #ffff;
     height: 90%;
     padding: 0px 3% 0px 3%;
+    align-items: center;
     justify-content: space-between;
 }
 
@@ -67,27 +68,3 @@
 
 
 
-@media (max-width:500px) {
-
-    header{
-        height: auto;
-    }
-
-    .header_content{
-        padding: 0;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
-
-    .header_content a {
-        width: 30vw;
-        height: 5vh;
-        margin-bottom: 2%;
-    }
-
-    .header_content_logo{
-        width: 90vw;
-        justify-content: space-between;
-    }
-}

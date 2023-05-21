@@ -25,6 +25,7 @@ ul,li,ol{list-style: none;}
 
 
 .d-flex{display: flex;}
+.flex-column{flex-direction: column;}
 
 .font-family-jaldi{font-family: 'Jaldi', sans-serif;}
 

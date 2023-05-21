@@ -123,20 +123,3 @@
 
 }
 
-@media (max-width:950px) {
-    .footer_links{
-        flex-direction: column;
-        text-align: center;
-        align-items: center;
-        justify-content: center;
-        gap: 4vh;
-    }
-    .footer_links_app{
-        width: 100%;
-        flex-direction: column;
-        gap: 4vh;
-        padding-top: 4vh;
-        align-items: center;
-        justify-content: center;
-    }
-}
