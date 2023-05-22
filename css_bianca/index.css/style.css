@@ -6,12 +6,12 @@ body{
 
 header{
     background-color: var(--primary-color);
-    height: 14%;
+    height: 15vh;
     flex-direction: column;
     border-bottom: 3px solid var(--primary-color);
 }
 
 main{
-    height:86%;
+    height:85vh;
 }
 

@@ -1,4 +1,4 @@
-@media (max-width:500px) {
+@media (max-width:640px) {
 
     header{
         height: auto;
@@ -30,6 +30,7 @@
         align-items: center;
         justify-content: center;
         gap: 4vh;
+        padding-top: 10px;
     }
     .footer_links_app{
         width: 100%;
